@@ -11,5 +11,8 @@
     "weather"
   ],
   "author": "Denis Bugreev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
 }
